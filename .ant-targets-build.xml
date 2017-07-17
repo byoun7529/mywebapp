@@ -1,0 +1,10 @@
+all
+clean
+compile
+dist
+install
+javadoc
+list
+prepare
+reload
+remove
